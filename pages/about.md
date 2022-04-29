@@ -11,7 +11,7 @@ Hi, I am **{{ site.author.name }}** alias `Pyr0` :wave:<br>
 
 *Cyber Security Professional and Network Engineer*
 
-My background is in System/Network administration, Linux, Python, and Cyber Security. I purpose myself to be a student first and foremost in all things.
+My background is in System/Network administration, Linux, Python, and Cyber Security.
 
 For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav). CV available upon request.
 
