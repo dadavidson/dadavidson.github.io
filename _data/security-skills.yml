@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: Network Security
   percentage: 95
-  color: info
+  color: success
 
-- name: Adobe Illustrator
+- name: Penetration Testing
   percentage: 90
   color: success
+
+- name: Firewall Management
+  percentage: 80
+  color: primary

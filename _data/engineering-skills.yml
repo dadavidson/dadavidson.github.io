@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
+- name: Network Engineering
   percentage: 95
-  color: info
+  color: success
 
-- name: Adobe Illustrator
+- name: Windows Server Administration
   percentage: 90
   color: success
+
+- name: Linux Administration
+  percentage: 80
+  color: info
