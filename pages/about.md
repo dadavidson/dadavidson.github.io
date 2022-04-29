@@ -9,11 +9,11 @@ weight: 3
 
 Hi, I am **{{ site.author.name }}** alias `Pyr0` :wave: <br>
 
-*Cyber Security Professional and Network Engineer*
+*Network Engineer*
 
-My background is in System/Network administration, Linux, Python, and Cyber Security.
+My background is in Network/System engineering, Linux, Python, and Cyber Security.
 
-For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav). CV available upon request.
+For questions and inqueries, please reach out on [LinkedIn](https://linkedin.com/in/danieldav). CV available upon request.
 
 <div class="row">
 {% include about/skills.html title="Engineering" source=site.data.engineering-skills %}
