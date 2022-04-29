@@ -1,11 +1,11 @@
 - name: Network Security
-  percentage: 95
-  color: success
-
-- name: Penetration Testing
   percentage: 90
   color: success
 
-- name: Firewall Management
-  percentage: 80
+- name: Penetration Testing
+  percentage: 85
   color: primary
+
+- name: Firewall Management
+  percentage: 75
+  color: info

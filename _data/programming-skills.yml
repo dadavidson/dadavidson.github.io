@@ -7,5 +7,5 @@
   color: primary
 
 - name: Bash
-  percentage: 70
+  percentage: 80
   color: info
