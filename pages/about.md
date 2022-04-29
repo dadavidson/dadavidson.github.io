@@ -7,9 +7,7 @@ weight: 3
 
 # **About me**
 
-Hi, I am **{{ site.author.name }}** alias `Pyr0` :wave:<br>
-
-*Cyber Security Professional and Network Engineer*
+Hi, I am **{{ site.author.name }}** alias `Pyr0` :wave: - *Cyber Security Professional and Network Engineer* <br>
 
 My background is in System/Network administration, Linux, Python, and Cyber Security.
 
