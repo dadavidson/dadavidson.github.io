@@ -1,8 +1,8 @@
-- name: Cisco Network Engineering
+- name: Network Engineering
   percentage: 95
   color: success
 
-- name: Windows Server Administration
+- name: System Administration
   percentage: 85
   color: primary
 
