@@ -5,7 +5,7 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About me**
 
 Hi, I am **{{ site.author.name }}** alias `Pyr0` :wave:<br>
 
