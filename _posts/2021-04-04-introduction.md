@@ -12,4 +12,4 @@ Hello friend
 
 Hopefully this will help you out within your own journey. That's all for now.
 
-- _D_
+_- D_
