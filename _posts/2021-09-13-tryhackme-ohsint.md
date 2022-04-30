@@ -2,10 +2,10 @@
 layout: post
 title:  "TryHackMe Writeup: OhSINT"
 date:   2021-09-13 22:30:00
+tags: [Security, TryHackMe, OSINT]
+style: border
+color: primary
 description: "TryHackMe: OhSINT Writeup"
-toc: true
-categories: [Security, OSINT]
-tags: [tryhackme, OSINT]
 ---
 
 This is my write-up for the room [OhSINT](https://tryhackme.com/room/ohsint) on TryHackMe.

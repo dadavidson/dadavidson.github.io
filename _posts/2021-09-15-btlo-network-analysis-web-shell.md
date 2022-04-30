@@ -2,10 +2,10 @@
 layout: post
 title:  "BTLO: Network Analysis - Web Shell"
 date:   2021-09-15 22:30:00
+tags: [Security, BlueTeamLabs, Cyber Defense]
+style: border
+color: primary
 description: "Blue Team Labs: Network Analysis - Web Shell Writeup"
-toc: true
-categories: [Security, Security Operations]
-tags: [blueteamlabs, SOC, security operations]
 ---
 
 This is my write-up for [Network Analysis - Web Shell](https://blueteamlabs.online/home/challenge/12) on Blue Team Labs.

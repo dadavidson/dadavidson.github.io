@@ -2,10 +2,10 @@
 layout: post
 title:  "Security Blue Team: Intro to OSINT Review"
 date:   2021-09-17 23:30:00
+tags: [Security, BlueTeamLabs, Cyber Defense, OSINT, Certifications]
+style: border
+color: primary
 description: "A review on Introduction to OSINT Course"
-toc: true
-categories: [Security, OSINT, Certifications]
-tags: [security blue team, reviews, certifications, OSINT]
 ---
 
 ## Certificate

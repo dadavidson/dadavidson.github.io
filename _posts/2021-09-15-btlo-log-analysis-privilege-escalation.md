@@ -2,10 +2,10 @@
 layout: post
 title:  "BTLO: Log Analysis - Privilege Escalation"
 date:   2021-10-16 05:36:00
+tags: [Security, BlueTeamLabs, Cyber Defense]
+style: border
+color: primary
 description: "Blue Team Labs: Log Analysis - Privilege Escalation Writeup"
-toc: true
-categories: [Security, Security Operations]
-tags: [blueteamlabs, SOC, security operations]
 ---
 
 This is my write-up for [Log Analysis - Privilege Escalation](https://blueteamlabs.online/home/challenge/4) on Blue Team Labs.

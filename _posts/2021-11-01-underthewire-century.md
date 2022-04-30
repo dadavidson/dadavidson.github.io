@@ -2,10 +2,10 @@
 layout: post
 title: "Under The Wire: Century"
 date: 2021-11-01 22:18:06
+tags: [UnderTheWire, Wargame, Powershell]
+style: border
+color: primary
 description: Under The Wire - Century Walkthrough
-toc: true
-categories: [Windows, Powershell]
-tags: [underthewire, powershell]
 ---
 
 ![](https://i.imgur.com/O4Gzby8.jpg)

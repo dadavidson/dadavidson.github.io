@@ -2,10 +2,10 @@
 layout: post
 title:  "TryHackMe Writeup: RootMe"
 date:   2021-09-12 22:30:00
+tags: [Security, TryHackMe, Pentesting]
+style: border
+color: primary
 description: "TryHackMe: RootMe Writeup"
-toc: true
-categories: [Security, Pentesting]
-tags: [tryhackme, pentesting]
 ---
 
 This is my write-up for the room [RootMe](https://tryhackme.com/room/rrootme) on TryHackMe.

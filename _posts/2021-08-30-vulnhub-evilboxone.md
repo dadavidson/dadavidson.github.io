@@ -2,10 +2,10 @@
 layout: post
 title:  "Vulnhub Writeup: EvilBox One"
 date:   2021-08-30 12:30:00
+tags: [Security, Pentesting, VulnHub]
+style: border
+color: primary
 description: "Vulnhub: EvilBox One Writeup"
-toc: true
-categories: [Security, Pentesting]
-tags: [vulnhub, pentesting]
 ---
 
 Hello friend!

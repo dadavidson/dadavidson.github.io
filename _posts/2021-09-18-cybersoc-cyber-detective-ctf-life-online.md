@@ -2,10 +2,10 @@
 layout: post
 title:  "CyberSoc | Cyber Detective CTF: Life Online"
 date:   2021-09-17 23:30:00
+tags: [Security, CyberSoc, OSINT]
+style: border
+color: primary
 description: "Cyber Detective CTF: Life Online Writeup"
-toc: true
-categories: [Security, OSINT]
-tags: [OSINT, CyberSoc]
 ---
 
 [CyberSoc Detective CTF](https://ctf.cybersoc.wales/) is a platform that contains many OSINT-based challenges. It was created by the [Cyber Society at Cardiff University](https://cybersoc.wales/about).

@@ -2,7 +2,7 @@
 layout: post
 title: "Steganography with Steghide"
 date: 2021-08-16 19:21:06
-tags: [Cryptography, Forensics, Steganography]
+tags: [Security, Cryptography, Steganography, Forensics]
 style: border
 color: primary
 description: Steghide is a stego program that is able to hide data in various kinds of image and audio-files.

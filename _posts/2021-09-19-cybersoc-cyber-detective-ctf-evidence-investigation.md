@@ -2,10 +2,10 @@
 layout: post
 title:  "CyberSoc | Cyber Detective CTF: Evidence Investigation"
 date:   2021-09-19 22:30:00
+tags: [Security, CyberSoc, OSINT]
+style: border
+color: primary
 description: "Cyber Detective CTF: Evidence Investigation Writeup"
-toc: true
-categories: [Security, OSINT]
-tags: [OSINT, CyberSoc]
 ---
 
 [CyberSoc Detective CTF](https://ctf.cybersoc.wales/) is a platform that contains many OSINT-based challenges. It was created by the [Cyber Society at Cardiff University](https://cybersoc.wales/about).
