@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "TryHackMe Writeup: Simple CTF"
+title:  "TryHackMe | Simple CTF"
 date:   2021-09-03 22:30:00
 tags: [Security, TryHackMe, Pentesting]
 style: border
 color: primary
-description: "TryHackMe: Simple CTF Writeup"
+description: "TryHackMe Simple CTF Writeup"
 ---
 
 This is my write-up for the room [Simple CTF](https://tryhackme.com/room/easyctf) on TryHackMe.

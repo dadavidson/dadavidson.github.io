@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Security Blue Team: Intro to OSINT Review"
+title:  "Security Blue Team | Intro to OSINT Review"
 date:   2021-09-17 23:30:00
 tags: [Security, BlueTeamLabs, Cyber Defense, OSINT, Certifications]
 style: border

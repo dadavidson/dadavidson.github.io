@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BTLO: Log Analysis - Privilege Escalation"
+title:  "BTLO | Log Analysis - Privilege Escalation"
 date:   2021-10-16 05:36:00
 tags: [Security, BlueTeamLabs, Cyber Defense]
 style: border
