@@ -2,8 +2,8 @@
 layout: post
 title: "Career Lessons"
 date: 2021-07-18 21:31:06
-style: 
-color: 
+style: border
+color: primary
 tags: [General, Advice]
 description: Just a few things I've learned along the way
 ---

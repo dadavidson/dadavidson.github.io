@@ -1,7 +1,7 @@
 ---
 title: GitHub Flow
 tags: [GitHub, Workflow]
-style: fill
+style: border
 color: primary
 description: GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
 ---
