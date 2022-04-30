@@ -17,7 +17,7 @@ For questions and inqueries, please reach out on [LinkedIn](https://linkedin.com
 
 <div class="row">
 {% include about/skills.html title="Engineering" source=site.data.engineering-skills %}
-{% include about/skills.html title="Security" source=site.data.security-skills %}
+{% include about/skills.html title="Cybersecurity" source=site.data.security-skills %}
 {% include about/skills.html title="Programming" source=site.data.programming-skills %}
 
 </div>
