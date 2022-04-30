@@ -4,7 +4,7 @@ title: "Get Pip for Python2"
 date: 2021-11-26 01:30:00
 tags: [Coding, Python, Tips]
 style: fill
-color: secondary
+color: info
 description: How-To Install Pip for Python 2
 ---
 
