@@ -7,7 +7,7 @@ weight: 3
 
 # **About me**
 
-Hi, I am **{{ site.author.name }}** alias `Pyr0` :wave: <br>
+Hi, I'm **{{ site.author.name }}** :wave: <br>
 
 *Network Engineer*
 
