@@ -2,9 +2,10 @@
 layout: post
 title: "Steganography with Steghide"
 date: 2021-08-16 19:21:06
+tags: [Cryptography, Forensics, Steganography]
+style: border
+color: primary
 description: Steghide is a stego program that is able to hide data in various kinds of image and audio-files.
-categories: [Cryptography, Forensics, Steganography]
-tags: [linux, cryptography, forensics, steganography]
 ---
 
 Today I will show you a steganography method on how to hide sensitive data inside image and audio files using the steghide utility. The author of this tool is Stefan Hetzl.
