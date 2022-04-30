@@ -2,10 +2,10 @@
 layout: post
 title: "OverTheWire: Bandit 6-10"
 date: 2021-04-08 20:10:06
-description: OverTheWire - Bandit Walkthrough
-toc: true
-categories: [Linux]
-tags: [overthewire, pentesting]
+tags: [Overthewire, Pentesting]
+style: border
+color: primary
+description: OTW - Bandit Walkthrough 6-15
 
 ---
 
