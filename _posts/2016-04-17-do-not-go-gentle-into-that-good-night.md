@@ -3,7 +3,7 @@ title: Do not go gentle into that good night
 tags: [Poetry]
 style: fill
 color: light
-description: 
+description: By Dylan Thomas
 ---
 
 Do not go gentle into that good night,  

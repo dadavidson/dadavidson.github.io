@@ -1,9 +1,9 @@
 ---
 title: Introduction
 tags: [General]
-style: fill
-color: light
-description: Hello friend...
+style: 
+color: 
+description: First post
 ---
 
 Hello friend
