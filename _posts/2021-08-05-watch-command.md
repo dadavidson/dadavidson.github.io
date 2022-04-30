@@ -3,7 +3,7 @@ layout: post
 title: "Watch Command in Windows"
 date: 2021-08-05 22:37:18
 tags: [Windows, Powershell, Coding]
-style: border
+style: fill
 color: primary
 description: Windows Watch Command Equivalent - PowerShell & CMD
 ---
