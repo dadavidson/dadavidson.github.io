@@ -1,7 +1,7 @@
 ---
-name: PlaceHolder Project
+name: Beginner
 tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: https://cybercademy.org/wp-content/uploads/2020/05/programming-and-computer-background.jpg
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+external_url: https://cybercademy.org/beginner-projects/
 ---
