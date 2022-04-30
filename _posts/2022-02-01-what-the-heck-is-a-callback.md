@@ -1,8 +1,8 @@
 ---
 title: What the heck is a Callback?
 tags: [JavaScript, Nodejs, Web Development]
-style: fill
-color: danger
+style: border
+color: primary
 description: Learn and understand the basics of callbacks in just 6 minutes with easy examples.
 ---
 
