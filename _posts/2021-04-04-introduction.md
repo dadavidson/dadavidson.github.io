@@ -1,6 +1,6 @@
 ---
 title: Introduction
-tags: [Misc]
+tags: [General]
 style: fill
 color: light
 description: Hello friend...

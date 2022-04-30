@@ -5,7 +5,7 @@ date: 2021-04-04 23:18:06
 description: OverTheWire - Bandit Walkthrough
 toc: true
 categories: [Linux]
-tags: [overthewire, pentesting]
+tags: [Overthewire, Pentesting]
 ---
 
 I think [TryHackMe](https://tryhackme.com/) and [HackTheBox](https://www.hackthebox.eu/) are great resources for hacking and provide a nice platform for cyber security students to learn many things within a lab environment. That said, those resources also come with a price $$$ so I set out to find a free resource that every person interested in cyber security can try without paying a cent thanks to the good ole staff at [OverTheWire](https://overthewire.org/information/staff.html)! 
