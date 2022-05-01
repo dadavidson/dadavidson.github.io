@@ -1,7 +1,0 @@
----
-name: Systems
-tools: [nothing, important]
-image: https://cybercademy.org/wp-content/uploads/2020/05/programming-and-computer-background.jpg
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://cybercademy.org/beginner-projects/
----
