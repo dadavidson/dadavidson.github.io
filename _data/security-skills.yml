@@ -6,6 +6,6 @@
   percentage: 85
   color: primary
 
-- name: Firewall Management
-  percentage: 75
+- name: Micro-segmentation Management
+  percentage: 70
   color: info
