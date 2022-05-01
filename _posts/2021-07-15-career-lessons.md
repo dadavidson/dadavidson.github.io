@@ -4,7 +4,7 @@ title: "Career Lessons"
 date: 2021-07-18 21:31:06
 style: border
 color: primary
-tags: [General, Advice]
+tags: [General]
 description: Just a few things I've learned along the way
 ---
 
