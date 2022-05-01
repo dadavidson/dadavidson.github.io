@@ -28,7 +28,9 @@ Windows PowerShell:
 C:\> while (1) {<command>; sleep 5; Clear-Host}
 ```
 
-If you would prefer something more friendly and not to type these long commands I have built a PowerShell module, [Watch-Command](https://github.com/danieldavidson/Watch-Command), which is available on Github.
+If you would prefer something more friendly and not to type these long commands I have built a PowerShell module, [Watch-Command](https://github.com/dadavidson/Watch-Command), which is available on Github.
+
+## Dude...just show me the code!
 
 Code:
 ```powershell
