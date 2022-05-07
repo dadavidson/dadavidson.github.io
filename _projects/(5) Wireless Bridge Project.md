@@ -1,7 +1,7 @@
 ---
 name: Wireless Bridge Project
 tools: [Networking, Wireless, Ubiquiti]
-image: https://cdn.shopify.com/s/files/1/1439/1668/files/bbridge_concept_04_vimeo.mp4?2111
+image: https://i.imgur.com/36P8RXE.png
 description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
 
