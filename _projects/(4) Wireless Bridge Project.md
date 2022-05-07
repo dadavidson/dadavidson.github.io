@@ -17,6 +17,6 @@ Come back later...
     <source src="https://cdn.shopify.com/s/files/1/1439/1668/files/bbridge_concept_04_vimeo.mp4?2111" type="video/mp4">
 </video>
 
-<div style="text-align:center; font-color:gray;">
+<div style="text-align:center; color:rgb(108, 117, 125);">
     <em>Photo courtesy of Ubiquiti Inc.</em>
 </div>
