@@ -13,7 +13,9 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiu
 
 UniFi® Building-to-Building Bridge is the ideal solution for short-range, high-throughput connectivity. Integration with the UniFi application makes bridging two networks seamless. As a pack of two radios, UniFi Building-to-Building Bridge contains everything you need to get up and running within minutes. Enjoy simple, easy-to-use gigabit connectivity anywhere.
 
-<video muted="" autoplay="" loop="" playsinline="" preload="auto" style="width:100%; transform-origin: 50% 75%; transform: scale(1.2)">
+<br>
+
+<video muted="" autoplay="" loop="" playsinline="" preload="auto">
     <source src="https://cdn.shopify.com/s/files/1/1439/1668/files/bbridge_concept_04_vimeo.mp4?2111" type="video/mp4">
 </video>
 
