@@ -1,7 +1,7 @@
 ---
 name: Wireless Bridge Project
 tools: [Networking, Wireless, Ubiquiti]
-image: https://i.imgur.com/36P8RXE.png
+image: https://i.imgur.com/ztPHpYg.jpg
 description: Wireless Point to Point Bridging
 ---
 
