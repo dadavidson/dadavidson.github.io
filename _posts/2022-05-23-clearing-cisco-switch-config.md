@@ -27,3 +27,6 @@ Switch# reload
 - Hold the *"mode"* button on the front of the switch for 10 seconds.
 - The lights will blink then go solid
 - The switch completely wipes all configuration and then reboots
+
+
+![Mode button on a Cisco Switch Diagram](https://i.imgur.com/QnuzypE.png)
