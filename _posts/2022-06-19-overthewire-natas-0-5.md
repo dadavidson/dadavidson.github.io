@@ -37,6 +37,7 @@ Right click anywhere on the page and select view the source. You’ll notice a c
 ```
 <!--The password for natas1 is gtVrDuiDfck831PqWsLEZy5gyDz1clto -->
 ```
+
 That's our password. Easy!
 
 > **Username:** natas1
