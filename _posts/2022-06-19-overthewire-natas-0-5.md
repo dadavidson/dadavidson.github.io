@@ -12,7 +12,7 @@ These challenges are called *Wargames*. Wargames are similar to a CTF but are al
 
 <p style="text-align:center;"><img src="https://i.imgur.com/CMSnafO.jpg" width=500></p>
 
-This set of challenges or *"wargames"* is called [Natas](https://overthewire.org/wargames/natas/). Natas teaches the basics of serverside web-security.
+This set of challenges or *Wargames* is called [Natas](https://overthewire.org/wargames/natas/). Natas teaches the basics of serverside web-security.
 Here is my walkthrough of each level. If you would like to jump to specific level then each level with be accompanied with the username and password. I will be appending consecutive levels as I have to time to post. Enjoy!
 
 ## Natas 0
