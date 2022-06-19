@@ -4,7 +4,7 @@ title: "OverTheWire: Natas 0-5"
 date: 2022-06-19 12:35:00
 style: border
 color: primary
-tags: [Security, Overthewire, Web-Security, Pentesting]
+tags: [Security, Overthewire, Web Security, Pentesting]
 description: OTW - Natas Walkthrough 0-5
 ---
 
