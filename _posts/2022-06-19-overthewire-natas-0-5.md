@@ -20,12 +20,8 @@ Here is my walkthrough of each level. If you would like to jump to specific leve
 
 In their website they give us the username and password for natas0.
 
-### Answer
-<details>
-  <summary>Click to reveal</summary>
-  > **Username:** natas0
-  > **Password:** natas0
-</details>
+> **Username:** natas0
+> **Password:** natas0
 
 ---
 
@@ -43,11 +39,7 @@ Right click anywhere on the page and select view the source. You’ll notice a c
 ```
 That's our password. Easy!
 
-### Answer
-<details>
-  <summary>Click to reveal</summary>
-  > **Username:** natas1
-  > **Password:** gtVrDuiDfck831PqWsLEZy5gyDz1clto
-</details>
+> **Username:** natas1
+> **Password:** gtVrDuiDfck831PqWsLEZy5gyDz1clto
 
 ---
