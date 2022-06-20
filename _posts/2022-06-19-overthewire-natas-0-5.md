@@ -23,7 +23,7 @@ In their website they give us the username and password for natas0.
 
 ---
 
-## Natas 0 - 1 
+## Natas 0 → 1 
 [http://natas0.natas.labs.overthewire.org](http://natas0.natas.labs.overthewire.org)
 
 It says it’s on this page, but we don’t see it, do we? 
