@@ -23,7 +23,6 @@ In their website they give us the username and password for natas0.
   <summary>Click to reveal!</summary>
 
   Username: natas0
-  
   Password: natas0
 </details>
 
