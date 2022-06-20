@@ -42,3 +42,73 @@ That's our password. Easy!
 > **Password:** gtVrDuiDfck831PqWsLEZy5gyDz1clto
 
 ---
+
+## Natas 1 → 2 
+[http://natas1.natas.labs.overthewire.org](http://natas1.natas.labs.overthewire.org)
+
+We need to view the source but we can't because right-clicking is blocked.
+
+![](https://i.imgur.com/igPfPWF.png)
+
+There are a couple of ways around this.
+
+**Method #1**
+The simplest is to use the keyboard shortcut `Ctrl` + `U`
+
+**Method #2**
+Download NoScript browser extension. *Essentially blocks javascript from executing.*
+Now, you can right click anywhere on the page and select view the source. You’ll notice a comment:
+
+```
+<!--The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi -->
+```
+
+Fairly similar to the last challenge.
+
+> **Username:** natas2
+> **Password:** ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
+
+---
+
+## Natas 2 → 3 
+[http://natas2.natas.labs.overthewire.org](http://natas2.natas.labs.overthewire.org)
+
+Nothing on the page?
+
+![](https://i.imgur.com/Y9mfR7V.png)
+
+1. View the source
+
+2. Notice the `files/pixel.png`
+
+```html
+<body>
+<h1>natas2</h1>
+<div id="content">
+There is nothing on this page
+<img src="files/pixel.png">
+</div>
+</body>
+```
+
+3. Navigate the the `files` directory
+
+![](https://i.imgur.com/r1yOJbG.png)
+
+
+4. The site is vulnerable to something called ["Directory Traversal"](https://www.acunetix.com/blog/articles/directory-listing-information-disclosure/). Open `users.txt`. There you’ll find the password to the next level.
+
+```
+# username:password
+alice:BYNdCesZqW
+bob:jw2ueICLvT
+charlie:G5vCxkVV3m
+**natas3:sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14**
+eve:zo4mJWyNj2
+mallory:9urtcpzBmH
+```
+
+> **Username:** natas3
+> **Password:** sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
+
+---
