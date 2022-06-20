@@ -27,3 +27,28 @@ In their website they give us the username and password for natas0.
 </details>
 
 ---
+
+## Natas 0 - 1 
+[http://natas0.natas.labs.overthewire.org](http://natas0.natas.labs.overthewire.org)
+
+It says it’s on this page, but we don’t see it, do we? 
+
+![](https://i.imgur.com/oDDaBDv.png)
+
+Right click anywhere on the page and select view the source. You’ll notice a comment:
+
+```
+<!--The password for natas1 is gtVrDuiDfck831PqWsLEZy5gyDz1clto -->
+```
+
+That's our password. Easy!
+
+**Answer**
+<details>
+  <summary>Click to reveal!</summary>
+
+  Username: natas1
+  Password: gtVrDuiDfck831PqWsLEZy5gyDz1clto
+</details>
+
+---
