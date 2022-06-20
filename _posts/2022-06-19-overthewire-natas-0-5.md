@@ -77,9 +77,9 @@ Nothing on the page?
 
 ![](https://i.imgur.com/Y9mfR7V.png)
 
-1. View the source
+- View the source
 
-2. Notice the `files/pixel.png`
+- Notice the `files/pixel.png`
 
 ```html
 <body>
@@ -91,12 +91,11 @@ There is nothing on this page
 </body>
 ```
 
-3. Navigate the the `files` directory
+- Navigate the the `files` directory
 
 ![](https://i.imgur.com/r1yOJbG.png)
 
-
-4. The site is vulnerable to something called ["Directory Traversal"](https://www.acunetix.com/blog/articles/directory-listing-information-disclosure/). Open `users.txt`. There you’ll find the password to the next level.
+- The site is vulnerable to something called ["Directory Traversal"](https://www.acunetix.com/blog/articles/directory-listing-information-disclosure/). Open `users.txt`. There you’ll find the password to the next level.
 
 ```
 # username:password
