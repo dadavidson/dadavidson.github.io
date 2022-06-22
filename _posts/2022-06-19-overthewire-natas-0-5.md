@@ -194,3 +194,27 @@ natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 > **Password:** Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 
 ---
+
+## Natas 4 → 5 
+[http://natas4.natas.labs.overthewire.org](http://natas4.natas.labs.overthewire.org)
+
+On successfully logging in the natas4 webpage, we will have a message in front of us. It says “Access disallowed. You are visiting from “” while authorized users should come only from “//natas5.natas.labs.overthewire.org/” ”as shown in the figure given below.
+
+![](https://i.imgur.com/drzUhWH.png)
+
+We intercept the request in Burp Suite, here we see that there is a parameter named Referer. It says natas4.
+
+![](https://i.imgur.com/qqaMIuH.png)
+
+Change that Referer parameter value to Natas5 as shown in the image given below.
+
+![](https://i.imgur.com/VXhzgKW.png)
+
+After Forwarding the Request, we get the credentials of the user natas5.
+
+![](https://i.imgur.com/boCLRVG.png)
+
+> **Username:** natas5
+> **Password:** iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
+
+---
