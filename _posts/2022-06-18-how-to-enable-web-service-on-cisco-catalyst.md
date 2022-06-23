@@ -16,7 +16,13 @@ Open a terminal, PuTTT, or whatever ssh/telnet/console client works for you.
 
 ## Step 2
 
-Type "ssh x.x.x.x" and substitute the IP address of the Cisco Catalyst switch for the "x.x.x.x," and then press the "Enter" key.
+SSH into the switch
+
+```
+ssh x.x.x.x
+```
+
+Substitute the IP address of the Cisco Catalyst switch for the "x.x.x.x," and then press the "Enter" key.
 
 ## Step 3
 
