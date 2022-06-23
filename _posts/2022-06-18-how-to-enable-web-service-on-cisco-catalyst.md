@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "How to Enable a Web Interface on a Cisco Catalyst"
+title: "How to Enable Web Service on a Cisco Catalyst"
 date: 2022-06-18 11:30:00
 style: border
 color: primary
 tags: [Networking]
-description: If you are configuring a Cisco Catalyst switch and would like to manage it from a web browser and be able to check traffic insights keep reading.
+description: Enabling a managed web service on Cisco switches
 ---
 
 Cisco Catalyst switches include remote configuration options such as connecting through telnet, SSH and web interface. If you are configuring a Cisco Catalyst switch and would like to manage it from a web browser and be able to check traffic insights keep reading.
