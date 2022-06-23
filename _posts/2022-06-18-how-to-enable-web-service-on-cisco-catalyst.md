@@ -40,7 +40,9 @@ Switch#
 
 Don't forget to save your changes:
 
-`Switch# copy running-config to startup-config`
+```
+Switch# copy running-config to startup-config
+```
 
 ## Step 7
 
