@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "OverTheWire Natas 0-5"
+title: "OverTheWire Natas 6-10"
 date: 2022-06-23 14:00:00
 style: border
 color: primary
