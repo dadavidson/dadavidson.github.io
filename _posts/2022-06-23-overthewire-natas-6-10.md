@@ -14,13 +14,11 @@ This set of challenges or *Wargames* is called [Natas](https://overthewire.org/w
 Here is my walkthrough of each level. If you would like to jump to specific level then each level with be accompanied with the username and password. I will be appending consecutive levels as I have to time to post. Enjoy!
 
 ## Natas 6
-[http://natas0.natas.labs.overthewire.org](http://natas6.natas.labs.overthewire.org)
+[http://natas6.natas.labs.overthewire.org](http://natas6.natas.labs.overthewire.org)
 
-It says it’s on this page, but we don’t see it, do we? 
+In progress...
 
-![](https://i.imgur.com/oDDaBDv.png)`
-
-That's our password. Easy!
+Come back later.
 
 > **Username:** natas7
 > **Password:** 
