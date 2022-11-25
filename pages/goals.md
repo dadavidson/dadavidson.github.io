@@ -3,8 +3,6 @@ layout: page
 title: Goals
 ---
 
-# Goals & Achievements
-
 Here is a slightly condensed version of my goals and achievements to hold myself accountable.
 
 ## 2023
