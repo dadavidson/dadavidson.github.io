@@ -12,7 +12,7 @@ Cisco Catalyst switches include remote configuration options such as connecting 
 
 ## Step 1
 
-Open a terminal, PuTTT, or whatever ssh/telnet/console client works for you.
+Open a terminal, PuTTy, or whatever ssh/telnet/console client works for you.
 
 ## Step 2
 
