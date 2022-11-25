@@ -4,7 +4,7 @@ url: "https://dadavidson.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Aether                                           # site's title
-description: "Just another security blog"               # used by search engines
+description: "Daniel Davidson's Weblog"               # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
