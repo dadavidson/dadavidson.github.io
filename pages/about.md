@@ -2,13 +2,33 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "assets/img/pexels/travel.jpeg"
-tags: [Page]
+weight: 3
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+# **About me**
 
-Head over to the [theme's documentation](https://github.io/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
+Hi, I'm **Daniel** <br>
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+*Network Engineer*
+
+My background is in Network/System engineering, Linux, Python, and Cybersecurity.
+
+For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav). CV available upon request.
+
+------
+
+# About this site
+
+> *"How great is the sum of thy thoughts? If I should count them, they are more in number than the sand."*
+
+This site serves as an external memory source to note and share my experiences. It is my intention through this endeavor to document resources and findings that I have to found to be critical to my progress as a network engineer, a hacker, and a sysadmin. I hope, not only will this be a learning experience for myself, but a resource for others as well.
+
+<!--![](https://i.imgur.com/j2scMHA.png){: width="700"}-->
+
+Some fun facts about the setup of this project include:
+
+- Built using [Jekyll](https://jekyllrb.com), a static site generator
+- Developed on GitHub and hosted for free ($0) on [GitHub Pages](https://pages.github.com)
+- Content made with [Typora](https://typora.io/) and [Atom](https://atom.io), an amazing open source code editor
+
+Thanks for reading!
