@@ -5,8 +5,6 @@ permalink: /about/
 weight: 3
 ---
 
-# **About me**
-
 Hi, I'm **Daniel** <br>
 
 *Network Engineer*
