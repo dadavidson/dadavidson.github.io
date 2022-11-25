@@ -3,14 +3,14 @@ baseurl: "/"
 url: "https://dadavidson.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: dadavidson.github.io                               # site's title
+title: Aether                                           # site's title
 description: "Just another security blog"               # used by search engines
 avatar: assets/img/triangle.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Just another security blog
-header_feature_image: assets/img/header/header2.jpg
+header_text: Daniel Davidson's Weblog
+header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
