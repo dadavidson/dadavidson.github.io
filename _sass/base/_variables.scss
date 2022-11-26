@@ -63,12 +63,18 @@ html[data-theme="dark"] {
   --code-inline: #d9b600;
   --text-shadow: #2d333b; // text shadow
   --text: #cdd9e5; // text
-  --h1: #d40059; // headers
-  --h2: #b37eff;
-  --h3: #ff66c2;
-  --h4: #00af9e;
-  --h5: #6bac00;
-  --h6: #ff5c00;
+  // --h1: #d40059; // headers
+  // --h2: #b37eff;
+  // --h3: #ff66c2;
+  // --h4: #00af9e;
+  // --h5: #6bac00;
+  // --h6: #ff5c00;
+  --h1: #9fef00;
+  --h2: #9fef00;
+  --h3: #9fef00;
+  --h4: #9fef00;
+  --h5: #9fef00;
+  --h6: #9fef00;
   --border: rgba(255, 255, 255, 0.5); // border
   --cusdis--color-text-default: var(--text);
   --cusdis--color-comment-username-text: var(--link);
