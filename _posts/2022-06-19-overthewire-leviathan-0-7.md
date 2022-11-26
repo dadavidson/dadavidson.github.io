@@ -9,6 +9,7 @@ description: OTW - Leviathan Walkthrough 0-7
 feature-img: https://i.imgur.com/AFWG7Hu.jpg
 ---
 
+
 These challenges are called [Wargames](https://overthewire.org/wargames/). Wargames are similar to a CTF but are always ongoing. Typically, they are organized into levels that get progressively harder as you solve more of them. Wargames are an excellent way to practice for CTFs!
 
 This set of challenges or *Wargames* is called [Leviathan](https://overthewire.org/wargames/leviathan/). Leviathan teaches the basics of Reverse Engineering and *nix commands. 
