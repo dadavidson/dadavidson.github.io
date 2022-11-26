@@ -3,7 +3,7 @@ baseurl: "/"
 url: "https://dadavidson.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Aether                                         # site's title
+title: dadavidson.github.io                           # site's title
 description: "Daniel Davidson's Weblog"               # used by search engines
 avatar: assets/img/icons8-console-96.png              # Empty for no avatar in navbar
 favicon: assets/favicon.ico                           # Icon displayed in the tab
