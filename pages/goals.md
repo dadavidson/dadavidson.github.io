@@ -18,7 +18,7 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 
 ## 2022
 - ~~Go back to school for Cybersecurity Degree at WGU~~
-- ~~Complete WGU Cybersecurity Degree Term 1/7 ~~
+- ~~Complete WGU Cybersecurity Degree Term 1/7~~
 - ~~Complete WGU Cybersecurity Degree Term 2/7~~ 
 - ~~Obtain Axelos ITIL certification~~
 - ~~Network Engineer role at AAA Cooper Transportation~~
