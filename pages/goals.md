@@ -15,7 +15,7 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 - ~~Obtain Axelos ITIL certification~~
 - ~~Network Engineer role at AAA Cooper Transportation~~
 - ~~Obtain CompTIA Project+ certification~~
-- Obtain CompTIA A+ certification
+- ~~Obtain CompTIA A+ certification~~
 - Obtain Illumio Core Specialist certification
 - Obtain Palo Alto Networks Certified Cybersecurity Entry-level Technician (PCCET) certification
 - ~~Complete TryHackMe - Introduction to Cyber Security path~~
