@@ -7,7 +7,7 @@ weight: 3
 
 Hi, I'm **Daniel** <br>
 
-*Network Engineer*
+*Network Security Engineer*
 
 My background is in Network/System engineering, Linux, Python, and Cybersecurity.
 

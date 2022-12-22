@@ -25,7 +25,6 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 - ~~Network Engineer role at AAA Cooper Transportation~~
 - ~~Obtain CompTIA Project+ certification~~
 - ~~Obtain CompTIA A+ certification~~
-
 - ~~Complete TryHackMe - Introduction to Cyber Security path~~
 - Complete 75 TryHackMe Rooms
 - ~~Become Top 1% on TryHackMe~~
