@@ -11,6 +11,7 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 - Obtain CompTIA Network+ certification
 - Obtain Cisco CCNA certification
 - Obtain CompTIA Security+ certification
+- Obtain Illumio Core Specialist certification
 - Obtain Palo Alto Networks Certified Cybersecurity Entry-level Technician (PCCET) certification
 - Obtain Certified Entry-Level Python Programmer (PCEP) certification
 - Complete 100 TryHackMe Rooms
@@ -24,7 +25,7 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 - ~~Network Engineer role at AAA Cooper Transportation~~
 - ~~Obtain CompTIA Project+ certification~~
 - ~~Obtain CompTIA A+ certification~~
-- Obtain Illumio Core Specialist certification
+
 - ~~Complete TryHackMe - Introduction to Cyber Security path~~
 - Complete 75 TryHackMe Rooms
 - ~~Become Top 1% on TryHackMe~~
