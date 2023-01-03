@@ -8,7 +8,9 @@ tags: [Networking, Homelab, Virtualization, Proxmox]
 description: Proxmox is Debian-based virtualization platform.
 ---
 
-In this article, we will learn how to install [Proxmox](https://www.proxmox.com/en/). Proxmox is Debian-based virtualization platform and it is open-source. In short it is a direct alternative to VMware's ESXI. Essentially it allows you to create and manage up different virtual machines as well as containers. Proxmox is a what virtualization guys call a type-1 hypervisor. If you want to learn more about the two different types of hypervisors I suggest watching this [video](https://www.youtube.com/watch?v=UEk0CKoeUnA) for a detailed explanation. For now just know that a type 1 hypervisor is a bare metal virtualization platform that can run different operating systems virtually.
+In this article, we will learn how to install [Proxmox](https://www.proxmox.com/en/). Proxmox is Debian-based  open-source virtualization platform.
+
+In short it is a direct alternative to VMware's ESXI. Essentially it allows you to create and manage up different virtual machines as well as containers. Proxmox is a what virtualization guys call a type-1 hypervisor. If you want to learn more about the two different types of hypervisors I suggest watching this [video](https://www.youtube.com/watch?v=UEk0CKoeUnA) for a detailed explanation. For now just know that a type 1 hypervisor is a bare metal virtualization platform that can run different operating systems virtually.
 
 Proxmox is free. That said, they do offer a license that will give you paid support. Let's get started!
 
