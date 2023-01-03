@@ -9,7 +9,7 @@ description: Proxmox is Debian-based virtualization platform.
 feature-img: https://i.imgur.com/vUktdH4.jpg
 ---
 
-In this article, we will learn how to install [Proxmox](https://www.proxmox.com/en/). Proxmox is Debian-based  open-source virtualization platform.
+In this article, we will learn how to install [Proxmox](https://www.proxmox.com/en/). Proxmox is an Debian-based  open-source virtualization environment.
 
 In short it is a direct alternative to VMware's ESXI. Essentially it allows you to create and manage up different virtual machines as well as containers. Proxmox is a what virtualization guys call a type-1 hypervisor. If you want to learn more about the two different types of hypervisors I suggest watching this [video](https://www.youtube.com/watch?v=UEk0CKoeUnA) for a detailed explanation. For now just know that a type 1 hypervisor is a bare metal virtualization platform that can run different operating systems virtually.
 
