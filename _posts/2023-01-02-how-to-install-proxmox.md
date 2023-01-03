@@ -28,19 +28,19 @@ Proxmox is free. That said, they do offer a license that will give you paid supp
 
 ![](https://i.imgur.com/HS1CQUA.png)
 
-- Select ISO Images to continue.
+- Select **ISO Images** to continue.
 
 ![](https://i.imgur.com/4La11mo.png)
 
-- Click Download and save the file.
+- Click **Download** and save the file.
 
 ![](https://i.imgur.com/tggbsb6.png)
 
 ## Step 2: Creating a Bootable Proxmox VE USB Drive
 
-To write the ISO image to a USB stick, you can use a tool like [Etcher]() for Windows, Mac, or Linux.
+To write the ISO image to a USB, you can use a tool like [Etcher]() for Windows, Mac, or Linux.
 
-- After you download and launch Etcher, select the Proxmox VE ISO image, select your USB drice, then **Flash!** This will write the ISO image to the USB stick.
+- After you download and launch Etcher, select the Proxmox VE ISO image, select your USB drive, then **Flash!** This will write the ISO image to the USB.
 
 ![](https://i.imgur.com/sgIVoTk.png)
 
