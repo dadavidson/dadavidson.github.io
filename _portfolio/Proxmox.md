@@ -8,4 +8,4 @@ tags: [Proxmox, Homelab, Virtualization]
 
 <!--![image]({{ page.img | relative_url }})-->
 
-[Install Proxmox](../_posts/2023-01-02-how-to-install-proxmox.md)
+[Install Proxmox](https://dadavidson.github.io/2023/01/02/how-to-install-proxmox.html)
