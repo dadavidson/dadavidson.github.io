@@ -24,15 +24,15 @@ Proxmox is free. That said, they do offer a license that will give you paid supp
 
 ## Step 1: Download Proxmox ISO Image
 
-1. Open a web browser and navigate to the official [Proxmox Downloads page](https://www.proxmox.com/en/downloads) and select **Proxmox Virtual Environment**.
+- Open a web browser and navigate to the official [Proxmox Downloads page](https://www.proxmox.com/en/downloads) and select **Proxmox Virtual Environment**.
 
 ![](https://i.imgur.com/HS1CQUA.png)
 
-2. Select ISO Images to continue.
+- Select ISO Images to continue.
 
 ![](https://i.imgur.com/4La11mo.png)
 
-3. Click Download and save the file.
+- Click Download and save the file.
 
 ![](https://i.imgur.com/tggbsb6.png)
 
@@ -40,79 +40,79 @@ Proxmox is free. That said, they do offer a license that will give you paid supp
 
 To write the ISO image to a USB stick, you can use a tool like [Etcher]() for Windows, Mac, or Linux.
 
-1. After you download and launch Etcher, select the Proxmox VE ISO image, select your USB drice, then **Flash!** This will write the ISO image to the USB stick.
+- After you download and launch Etcher, select the Proxmox VE ISO image, select your USB drice, then **Flash!** This will write the ISO image to the USB stick.
 
 ![](https://i.imgur.com/sgIVoTk.png)
 
-2. Once it's finished writing, boot your server/pc from the Proxmox USB drive.
+- Once it's finished writing, boot your server/pc from the Proxmox USB drive.
 
 ## Step 3: Proxmox Setup
 
 If you successfully completed creating the Proxmox bootable USB then you'll be prompted with a Promox splash page.
 
-1. Select **Install Proxmox VE**.
+- Select **Install Proxmox VE**.
 
 ![](https://i.imgur.com/of4JTCw.jpg)
 
-2. Select *I agree* if you agree with the EULA.
+- Select *I agree* if you agree with the EULA.
 
 ![](https://i.imgur.com/p6GmhBf.jpg)
 
-3. Select the **Target Harddisk** where you’d like to install Proxmox VE.
+- Select the **Target Harddisk** where you’d like to install Proxmox VE.
 
 ![](https://www.wundertech.net/wp-content/uploads/2022/05/InstallProxmox3-1024x665.jpg)
 
 > ⚠️ Selecting options will allow you to configure software RAID. You also have the option of using other file systems (Ext4 for example) but in this example I'm only using one hard drive for now. Select OK and then proceed to the next step.
 
-4. Select your **Country**, **Timezone**, and **Keyboard Layout**, then proceed.
+- Select your **Country**, **Timezone**, and **Keyboard Layout**, then proceed.
 
 ![](https://i.imgur.com/7ujpEhO.jpg)
 
-5. Enter in a **password** and **email address**. 
+- Enter in a **password** and **email address**. 
 
 ![](https://i.imgur.com/Cw9EYYc.jpg)
 
 > ⚠️ The email address is just used for alert notifications such as backup failures, and high availability events.
 
-6. Select the correct **Management Interface**, enter in a **Hostname**, then set the **IP address**, **Gateway**, and **DNS**.
+- Select the correct **Management Interface**, enter in a **Hostname**, then set the **IP address**, **Gateway**, and **DNS**.
 
 > ⚠️ Highly advise either setting up a static IP address or DHCP reservation so that the IP address never changes.
 
 ![](https://i.imgur.com/BibsMyF.jpg)
 
-7. Confirm all the settings are correct on the Summary page then proceed to install.
+- Confirm all the settings are correct on the Summary page then proceed to install.
 
 ![](https://i.imgur.com/HbRCfLu.jpg)
 
-8. Once installation is complete you will be able to access Proxmox webui by navigating to the IP address and port.
+- Once installation is complete you will be able to access Proxmox webui by navigating to the IP address and port.
 
 ```
 https://YOUR_PROXMOX_IP:8006
 ```
 
-9. Login with the username **root** and your **password**.
+- Login with the username **root** and your **password**.
 
 ![](https://i.imgur.com/avsVJOV.png)
 
 ## Step 4: Fix Software Updates
 
-1. On the left column, click the name of your Proxmox node, then click the **Shell** button on the top right. 
+- On the left column, click the name of your Proxmox node, then click the **Shell** button on the top right. 
 
 A new window should open with a command line on the server. You will need to type in the five commands below to accomplish the following:
 
-2. Move to the directory where Advanced Package Tool (APT) looks for software update repositories
+- Move to the directory where Advanced Package Tool (APT) looks for software update repositories
 
 ```
 cd /etc/apt/sources.list.d
 ```
 
-3. Rename the Enterprise configuration file to have .disabled at the end so it is ignored by APT
+- Rename the Enterprise configuration file to have .disabled at the end so it is ignored by APT
 
 ```
 mv pve-enterprise.list pve-enterprise.list.disabled
 ```
 
-4. Create a configuration file for the Community repository
+- Create a configuration file for the Community repository
 
 ```
 echo 'deb http://download.proxmox.com/debian/pve buster pve-no-subscription' > pve-community.list
@@ -122,19 +122,19 @@ We can verify the repo was added by going to **Updates** > **Repositories** and 
 
 ![](https://i.imgur.com/3MWJqLv.png)
 
-5. Update APT’s package list
+- Update APT’s package list
 
 ```
 apt update
 ```
 
-6. Install all available software updates
+- Install all available software updates
 
 ```
 apt -y dist-upgrade
 ```
 
-7. Once it's finished, reboot.
+- Once it's finished, reboot.
 
 ```
 reboot
