@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proxmox
+title: Proxmox Server
 img: https://i.imgur.com/vtFICAW.jpg
 date: January, 02 2023
 tags: [Proxmox, Homelab, Virtualization]
