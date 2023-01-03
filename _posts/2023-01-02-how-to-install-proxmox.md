@@ -6,6 +6,7 @@ style: border
 color: primary
 tags: [Networking, Homelab, Virtualization, Proxmox]
 description: Proxmox is Debian-based virtualization platform.
+feature-img: https://i.imgur.com/vUktdH4.jpg
 ---
 
 In this article, we will learn how to install [Proxmox](https://www.proxmox.com/en/). Proxmox is Debian-based  open-source virtualization platform.
