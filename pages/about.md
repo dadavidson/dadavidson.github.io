@@ -7,9 +7,9 @@ weight: 3
 
 Hi, I'm **Daniel** <br>
 
-*Network Security Engineer*
+*Cybersecurity Analyst*
 
-My background is in Network/System engineering, Linux, Python, and Cybersecurity.
+My background is in Network/System engineering and Cybersecurity.
 
 For questions and inqueries, please reach out to me on [LinkedIn](https://linkedin.com/in/danieldav). CV available upon request.
 
