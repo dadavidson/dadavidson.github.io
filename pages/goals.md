@@ -10,7 +10,7 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 - ~~Complete WGU Cybersecurity Degree Term 4/6~~
 - ~~Obtain CompTIA Network+ certification~~
 - ~~Obtain CompTIA Security+ certification~~
-- Obtain Illumio Core Specialist certification
+- ~~Cybersecurity Analyst I role at AAA Cooper Transportation~~
 - Obtain Palo Alto Networks Certified Cybersecurity Entry-level Technician (PCCET) certification
 - Obtain Certified Entry-Level Python Programmer (PCEP) certification
 - Complete 75 TryHackMe Rooms
@@ -22,6 +22,7 @@ Here is a slightly condensed version of my goals and achievements to hold myself
 - ~~Complete WGU Cybersecurity Degree Term 2/6~~ 
 - ~~Obtain Axelos ITIL certification~~
 - ~~Network Engineer role at AAA Cooper Transportation~~
+- ~~Network Security Engineer role at AAA Cooper Transportation~~
 - ~~Obtain CompTIA Project+ certification~~
 - ~~Obtain CompTIA A+ certification~~
 - ~~Complete TryHackMe - Introduction to Cyber Security path~~
