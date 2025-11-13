@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Security, Cloud, Strategy • Translating complexity into clarity • learn ⇄ imagine ⇆ build
+subtitle: <strong><a href="#">Security<a/> / <a href="#">Cloud<a/> / <a href="#">Strategy<a/> • Translating complexity into clarity • learn ⇄ imagine ⇆ build
 
 profile:
   align: right
