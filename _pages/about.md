@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/danieldav/'>Security Analyst</a> • learn ⇄ imagine ⇆ build
+subtitle: <strong>Security. Cloud. Strategy.</strong> @ <a href='https://aaacooper.com/'>ACT</a> • Translating complexity into clarity • learn ⇄ imagine ⇆ build
 
 profile:
   align: right
@@ -13,13 +13,13 @@ profile:
     <!-- <p>123 your address street</p> -->
     <!-- <p>Your City, State 12345</p> -->
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
