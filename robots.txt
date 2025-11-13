@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dadavidson.github.io/al-folio/sitemap.xml
+Sitemap: https://dadavidson.github.io/sitemap.xml
