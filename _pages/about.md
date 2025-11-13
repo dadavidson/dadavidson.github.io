@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.linkedin.com/in/danieldav/'>Security Analyst</a>.
+subtitle: <a href='https://www.linkedin.com/in/danieldav/'>Security Analyst</a> • learn ⇄ imagine ⇆ build
 
 profile:
   align: right
