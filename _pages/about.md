@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Security. Cloud. Strategy.</strong> @ <a href='https://aaacooper.com/'>ACT</a> • Translating complexity into clarity • learn ⇄ imagine ⇆ build
+subtitle: <strong>Security, Cloud, Strategy • Translating complexity into clarity • learn ⇄ imagine ⇆ build
 
 profile:
   align: right
