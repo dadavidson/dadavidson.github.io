@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Security Engineer</strong> @ <a href="https://aaacooper.com">ACT</a> • <strong>Expertise</strong><a href="#">Security<a/> / <a href="#">Cloud<a/> / <a href="#">DevOps<a/> • learn ⇄ imagine ⇆ build
+subtitle: <strong>Security Engineer</strong> @ <a href="https://aaacooper.com">ACT</a> • <strong>Expertise:</strong> <a href="#">Security<a/> / <a href="#">Cloud<a/> / <a href="#">DevOps<a/> • learn ⇄ imagine ⇆ build
 
 profile:
   align: right
